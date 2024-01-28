@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I am Awais</h1>
 <h3 align="center">Passionate Final Year Computer Science Student | Coding Enthusiast | Problem Solver</h3>
-<img align="right" alt="Coding" width="400" src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fpython.plainenglish.io%2Fbecome-a-python-pro-best-apps-for-quick-skill-development-ce9c5f19f52c&psig=AOvVaw3WCZxGZgqQR44GHDQ1yH94&ust=1706525751632000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIikjNP5_4MDFQAAAAAdAAAAABAD”>
 
 - 🌱 I’m currently learning **Machine Learning and AI.**
 
