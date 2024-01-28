@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Awais</h1>
 <h3 align="center">Passionate Final Year Computer Science Student | Coding Enthusiast | Problem Solver</h3>
-<img align="right" alt="Coding" width="400" src=“https://drive.google.com/file/d/14Lkqm5uODcxgYCAb0DX0qPn5gUDcntZl/view?usp=drive_link”>
+<img align="right" alt="Coding" width="400" src=“https://drive.google.com/file/d/14Lkqm5uODcxgYCAb0DX0qPn5gUDcntZl/view?usp=sharing”>
 
 - 🌱 I’m currently learning **Machine Learning and AI.**
 
 - 📫 How to reach me **awaismanzoor825@gmail.com**
 
-
+- ⚡ Fun fact **I have mastered the art of turning coffee into code and errors into experience!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
