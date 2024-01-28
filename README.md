@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **awaismanzoor825@gmail.com**
 
-- ⚡ Fun fact **I have mastered the art of turning coffee into code and errors into experience!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
