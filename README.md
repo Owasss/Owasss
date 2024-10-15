@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Awais</h1>
-<h3 align="center">Passionate Final Year Computer Science Student | Coding Enthusiast | Problem Solver</h3>
+<h3 align="center"> Software Engineer | Coding Enthusiast | Problem Solver</h3>
 
 - 🌱 I’m currently learning **Machine Learning and AI.**
 
